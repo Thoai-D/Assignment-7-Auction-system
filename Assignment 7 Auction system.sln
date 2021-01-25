@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 7 Auction system", "Assignment 7 Auction system\Assignment 7 Auction system.csproj", "{3CF0F53E-A1DC-4C7D-A80E-FA808530C523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF0F53E-A1DC-4C7D-A80E-FA808530C523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF0F53E-A1DC-4C7D-A80E-FA808530C523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF0F53E-A1DC-4C7D-A80E-FA808530C523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF0F53E-A1DC-4C7D-A80E-FA808530C523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218C0296-2FCC-48D8-BCB1-562605FC5C94}
+	EndGlobalSection
+EndGlobal
